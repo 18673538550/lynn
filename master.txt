@@ -16,3 +16,4 @@ git checkout dev
 
 git stash s  ffff
 
+git tag v1.0
