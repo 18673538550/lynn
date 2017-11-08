@@ -14,5 +14,5 @@ git checkout dev
 
 
 
-git stash
+git stash s
 
