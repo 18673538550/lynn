@@ -1,4 +1,4 @@
-git ѧϰ߹
+git ѧϰ
 
 git add dev.txt
 
