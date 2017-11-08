@@ -8,3 +8,11 @@ git reset --hard HEAD^
 git checkout --master.txt
 git diff HEAD -- master.txx
 git log
+
+git checkout dev
+
+
+
+
+git stash
+
