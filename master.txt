@@ -1,4 +1,4 @@
-git ѧϰ
+git 学习
 
 git add master.txt
 git commit -m 'add master.txt'
