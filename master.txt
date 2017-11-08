@@ -1,6 +1,10 @@
-git ѧϰ
+git 学习
 
 git add master.txt
 git commit -m 'add master.txt'
 git pull
 git push
+git reset --hard HEAD^
+git checkout --master.txt
+git diff HEAD -- master.txx
+git log
