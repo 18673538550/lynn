@@ -1,0 +1,6 @@
+git ѧϰ
+
+git add master.txt
+git commit -m 'add master.txt'
+git pull
+git push
